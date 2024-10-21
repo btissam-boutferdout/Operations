@@ -1,0 +1,40 @@
+.input {
+  width: 250px;
+  height: 35px;
+  font-size: medium;
+  padding-left: 10px;
+  display: block;
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 7px;
+  margin-left: 45px;
+  box-shadow: 10px 10px 10px rgb(151, 150, 150);
+}
+.button {
+  color: white;
+  width: 200px;
+  height: 35px;
+  background-color: rgb(49, 114, 23);
+  font-size: medium;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-left: 90px;
+}
+.father-div {
+  background-color: rgb(211, 166, 166);
+  width: 370px;
+  height: 350px;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px rgb(139, 172, 74);
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+body {
+  background-color: rgb(241, 204, 204);
+  margin-top: 100px;
+}
+/**/
